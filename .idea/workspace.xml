@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4fd185b-e1a2-4ed3-83a7-3eef29978ca2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/WhiskyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/models/Whisky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/models/Whisky.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryCustom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryCustom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

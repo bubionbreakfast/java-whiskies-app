@@ -18,6 +18,10 @@ public class WhiskyRepositoryImpl implements WhiskyRepositoryCustom {
     EntityManager entityManager;
 
     @Transactional
+//    public List<Whisky> findByDistilleryNameAndWhiskyAge(String distillery, int age){
+//        List<Whisky> result = null;
+//    return result;
+//    }
     public List<Whisky> findWhiskiesByYear(int yearToFind) {
         List<Whisky> result = null;
 
